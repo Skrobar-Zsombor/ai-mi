@@ -1,0 +1,15 @@
+platform (MI,AI) kutato minka 
+
+AI platformok : 
+Google Cloud AI
+ Amazon Web Services (AWS) AI
+Microsoft Azure AI
+IBM Watson
+OpenAI
+
+MI platformok 
+TensorFlow (Google)
+PyTorch (Meta/Facebook)
+ Microsoft Azure Machine Learning
+Amazon SageMaker
+IBM Watson
