@@ -1,0 +1,4 @@
+Honnan ered az AI?
+
+	John McCarthy, Marvin Minsky, Nathaniel Rochester és Claude Shannon 1956-ban, a Dartmourth konferencián hivatalosan
+	megfogalmazták az "artifficial intelligence" kifejezést. Ezt tekintjük az AI tudományos területének kezdetének.
