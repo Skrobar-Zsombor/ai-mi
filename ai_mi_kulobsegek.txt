@@ -1,0 +1,3 @@
+AI és ML különbségek
+
+Az MI, gépi tanulás az AI egy részhalmaza, amely arr összpontosít, hogy lehetővé tegye a gépek számára, hogy tanuljanak az adatokból. Az AI ezzel szemben szélesebb módszerek és technológiák körét öleli fel az adatokból tanuláson túl.
