@@ -1,0 +1,10 @@
+Mi volt az AI eredeti célja?
+
+- Az AI eredeti célja az volt, hogy olyan gépeket hozzanak létra, amelyek képesek utánozni vagy megvalósítani az emberi inteligencia aspektusait.
+- A kutatók olyan rendszereket akartak létrehozni, amelyek képesek: 
+	- tapasztalatokból tanulni
+	- problémákat megoldani
+	- problémákat megoldani
+	- megérteni és használni a nyelvet
+	- észlelni a környezetüket (pl.: képfelismerés, érzékelés)
+	- önálló döntéseket hozni
