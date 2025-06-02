@@ -1,0 +1,9 @@
+Hogyan és miben kell fejleszteni?
+
+	- Jobb integráció a hangalapú vagy képalapú inputokkal
+	- Műveltségi témákban nagyobb jártasság 
+		-Pl.: irodalom, történelem
+	- Partnerség: más alkalmazásokkal, oldalakkal való együttműködés
+		-PL.: jegzetek, microsoft
+	- Memória: korábbi beszélgetésekre vissza lehessen térni egy másikban
+	- Mélyebb szakirányultságú tudás
