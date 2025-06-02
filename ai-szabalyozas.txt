@@ -1,0 +1,8 @@
+Kell-e szabályozni?
+	-Igen, mivel az AI már nagy hatással van az emberek életére, és érdemes kordában tartani.
+
+Milyen szabályokra van szükség?
+	-Adatvédelem: csak engedéllyel használhasson fel személyes adatokat.
+	-Diszkriminációmentesség: ne írjon kirekesztő üzeneteket másokkal szemben.
+	-Manipulációmentesség: ne manipulálja az embereket szándékosan kárt okozva (pl. öngyilkosságra való buzdítás).
+	-Illegális információk szabályozása: ne juthassanak az emberek olyan információkhoz, amik illegálisak vagy illegális tevékenységet vonnak maguk után (pl. fegyverkészítés).
