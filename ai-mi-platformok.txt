@@ -1,0 +1,38 @@
+AI platformok:
+-Google Gemini AI
+-Amazon Web Services (AWS) AI
+-Microsoft Azure AI
+-IBM Watson
+-OpenAI 
+
+
+Feladatuk: kész megoldások és szolgáltatások generálása, pl. szöveg, kép, hang és videó 
+
+-Google Gemini AI: multimodális AI, képes szöveg, kép, hang és videó feldolgozására és generálására
+
+-AWS AI: felhőalapú AI-szolgáltatások, pl. beszédfelismerés, fordítás, képelemzés
+
+-Microsoft Azure AI: skálázható AI-megoldások fejlesztésére és üzemeltetésére szolgáló felhőplatform
+
+-IBM Watson: üzleti fókuszú AI, adatfeldolgozásra, ügyfélszolgálatra és elemzésekre specializálódott
+
+-OpenAI: fejlett nyelvi és multimodális modellek, pl. ChatGPT és DALL-E 
+
+MI platformok:
+-TensorFlow (Google)
+-PyTorch (Meta/Facebook)
+-Microsoft Azure Machine Learning
+-Amazon SageMaker
+-IBM Watson
+
+Feladatuk: olyan algoritmusok fejlesztése, amelyek adatokból tanulva képesek előrejelzéseket vagy döntéseket hozni
+
+-TensorFlow (Google): nyílt forráskódú gépi tanulási keretrendszer modellek építése és tanítása
+
+-PyTorch (Meta/Facebook): rugalmas és dinamikus keretrendszer gépi tanuláshoz (főként kutatáshoz, fejlesztéshez)
+
+-Microsoft Azure Machine Learning: felhőalapú platform gépi tanulási modellek fejlesztésére, tanítására és üzemeltetésére
+
+-Amazon SageMaker: AWS által biztosított platform gépi tanulási modellek gyors létrehozására, tanítására és telepítésére
+
+-IBM Watson: gépi tanulási modellek fejlesztésére szolgáló platform vállalati környezetben
