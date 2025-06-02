@@ -1,0 +1,32 @@
+
+AI platformok 
+példák az ai  : Google Gemini AI
+ Amazon Web Services (AWS) AI
+Microsoft Azure AI
+IBM Watson
+OpenAI 
+
+
+feladatuk : kész megoldások és szolgáltatások generálása 
+
+ Google Gemini AI töbfél adat feldölgozása pl : szöveg , kép , hang , video 
+eldolgozása és generálása
+
+AWS AI képes auto matikus forditásra a hang és képfeldolgozás mellet 
+
+Open ai fejlett nyelvi modellek pl: GPT-4o kées kodot és képet is generálni 
+
+MI platformok 
+plédák : TensorFlow (Google)Add commentMore actions
+PyTorch (Meta/Facebook)
+ Microsoft Azure Machine Learning
+Amazon SageMaker
+IBM Watson
+
+feladata a gépek tanitása tesztelése és fejlesztése 
+
+PyTorch (Meta/Facebook) dinamikus , rugalmas , gépi tanulási keretrendszer 
+
+Microsoft Azure Machine Learning  model telepités és betanitásra alkalmas
+
+Amazon SageMaker AWS által biztositot platform telepiés és gyors fejlesztés .
