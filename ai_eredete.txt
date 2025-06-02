@@ -1,4 +1,6 @@
 Honnan ered az AI?
 
+	Először 1950-ben Alan Turing fogalmazta meg az "inteligens gép" gondolatát. (Innen ered a Turing-teszt)
+
 	John McCarthy, Marvin Minsky, Nathaniel Rochester és Claude Shannon 1956-ban, a Dartmourth konferencián hivatalosan
 	megfogalmazták az "artifficial intelligence" kifejezést. Ezt tekintjük az AI tudományos területének kezdetének.
