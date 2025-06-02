@@ -1,0 +1,28 @@
+AI elönyei hátrányai 
+
+elönyei
+
+1.
+Az ai segíti az emberek hatékonysságát a munkába   és elveszi a monoton mukákat az automatizálással
+
+2.
+Új iparágak pl: AI fejlsztők , adatelemzők 
+
+3. Jobb szolgáltatások pl: ügyfélszolgálat 
+
+4.A nagy adat feldolgozás segíti a tudományos fejlödést 
+
+
+hátrányai
+
+1.
+Az automatizálás miatt az egyszerűbb monoton munkák eltünnek 
+
+2. 
+a nagy adatfeldolgozás miatt célpont a virtuális bűnözésnek, mivel személyes adatok is lehetnek az datok között
+
+3.
+nehéz megérteni a döntéseit hogyan születnek
+
+4.
+a túlzott ai függőség csökkenti az emberek döntéshozási szerepét   
