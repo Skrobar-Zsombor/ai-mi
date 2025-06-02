@@ -1,0 +1,22 @@
+AI előnyei, hátrányai 
+
+Előnyei:
+
+-Az AI segíti az emberek hatékonyságát a munkában, és kiváltja a monoton munkákat az automatizálással
+
+-Új iparágak jönnek létre, pl. AI-fejlesztők, adatelemzők 
+
+-Jobb szolgáltatások, pl. ügyfélszolgálat 
+
+-Nagy mennyiségű adatfeldolgozás segíti a tudományos fejlődést 
+
+
+Hátrányai:
+
+-Automatizálás miatt az egyszerűbb, monoton munkák megszűnnek
+ 
+-Adatfeldolgozás biztonsági kockázatokat hordozhat
+
+-Gyakran átláthatatlanok a döntései
+
+-A túlzott AI-függőség csökkentheti az emberi kontrollt
